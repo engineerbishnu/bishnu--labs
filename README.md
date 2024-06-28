@@ -15,10 +15,19 @@ This repo is used for exam lab.
 git clone https://github.com/your-username/your-repo.git](https://github.com/engineerbishnu/bishnu--labs.git
 cd /bishnu--labs
 
-### 2. Initialize your terraform first and do these wisely:
-
+**### 2. Initialize your terraform first and do these wisely:**
 ```sh
 terraform init
-terraform plan  ---> use for check the resource are created or not.
-terraform validate   ---> use for validate our terraform code.
-terraform apply -auto-approve   ---> used for auto approve resource creations.
+
+**### 3. Plan your resource for dry run:**
+```sh
+terraform plan
+
+
+**### 4. validate your resource for verified or not by running:**
+```sh
+terraform validate
+
+**### 5. Now apply your resource for resource creation by running:**
+```sh
+terraform apply -auto-approve
