@@ -35,3 +35,6 @@ terraform validate
 ```sh
 terraform apply -auto-approve
 ```
+# 6. After resource created, for destroying your resources just run following command:
+```sh
+terraform deploy -auto-approve
