@@ -10,24 +10,24 @@ This repo is used for exam lab.
 
 
 
-### 1. Clone this repo:
-```sh
+# 1. Clone this repo:
+
 git clone https://github.com/your-username/your-repo.git](https://github.com/engineerbishnu/bishnu--labs.git
 cd /bishnu--labs
 
-**### 2. Initialize your terraform first and do these wisely:**
-```sh
+# 2. Initialize your terraform first and do these wisely:
+
 terraform init
 
-**### 3. Plan your resource for dry run:**
-```sh
+# 3. Plan your resource for dry run:
+
 terraform plan
 
 
-**### 4. validate your resource for verified or not by running:**
-```sh
+# 4. validate your resource for verified or not by running:
+
 terraform validate
 
-**### 5. Now apply your resource for resource creation by running:**
-```sh
+# 5. Now apply your resource for resource creation by running:
+
 terraform apply -auto-approve
