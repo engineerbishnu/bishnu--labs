@@ -16,18 +16,20 @@ git clone https://github.com/your-username/your-repo.git](https://github.com/eng
 cd /bishnu--labs
 
 # 2. Initialize your terraform first and do these wisely:
-
+```sh
 terraform init
+```
 
 # 3. Plan your resource for dry run:
-
+```sh
 terraform plan
-
+```
 
 # 4. validate your resource for verified or not by running:
-
+```sh
 terraform validate
-
+```
 # 5. Now apply your resource for resource creation by running:
-
+```sh
 terraform apply -auto-approve
+```
