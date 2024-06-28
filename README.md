@@ -11,9 +11,11 @@ This repo is used for exam lab.
 
 
 # 1. Clone this repo:
-
+```sh
 git clone https://github.com/your-username/your-repo.git](https://github.com/engineerbishnu/bishnu--labs.git
+
 cd /bishnu--labs
+```
 
 # 2. Initialize your terraform first and do these wisely:
 ```sh
